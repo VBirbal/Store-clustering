@@ -1,6 +1,6 @@
 # Store segmentation - Unsupervised learning
 
-This notebook considers the data on purchases made from different stores and identifies store clusters.
+This notebook considers the purchase data from different stores on certain type of products and identifies store clusters.
 
 ### What's in store
 - Unsupervised clustering 
@@ -8,5 +8,13 @@ This notebook considers the data on purchases made from different stores and ide
 - Non-linear feature scaling
 - Outlier detection
 - Inverse PCA and data recovery
+
+### Libraries used
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Collections
 
 Data set is available.
