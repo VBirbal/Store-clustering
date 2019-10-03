@@ -3,7 +3,7 @@
 This notebook considers the purchase data from different stores on certain type of products and identifies store clusters.
 
 ### What's in store
-- Unsupervised clustering 
+- Unsupervised clustering ( GaussianMixture and Silhouette score )
 - Dimensionality reduction: Principal Component Analysis
 - Non-linear feature scaling
 - Outlier detection
